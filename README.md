@@ -39,10 +39,6 @@ That’s it. If you don’t have Python installed, fix that first.
 
 How to Run Option 1: Jupyter Notebook (Recommended)
 
-Clone the repository:
-
-git clone https://github.com/KnightOfCyber/student-progress-tracker.git
-
 Open the notebook:
 
 jupyter notebook MiniProject_Student ProgressTracker.ipynb
